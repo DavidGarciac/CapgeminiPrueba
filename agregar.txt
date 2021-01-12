@@ -1,4 +1,6 @@
-Modificación inicial fichero github
+ModificaciÃ³n inicial fichero github
+
+David
 
 Luis
 
@@ -6,4 +8,4 @@ Creado fichero desde master
 
 Editado por otra persona 
 
-Modificaci�n final fichero Eclipse
+Modificación final fichero Eclipse
