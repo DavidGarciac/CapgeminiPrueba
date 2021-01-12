@@ -1,3 +1,5 @@
+Modificación inicial fichero github
+
 Creado fichero desde master
 
 Editado por otra persona 
