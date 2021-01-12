@@ -12,16 +12,5 @@ asas
 saas
 
 Solucionado problema de produccion!!!
-=======
-SDA
-SDAF
-D
-SFAS
-DFSDFSD
-DF
 
-SDF
-SADFADAAFSD
-DFSSD
-SD
->>>>>>> stash
+Modificado desde rama_2
